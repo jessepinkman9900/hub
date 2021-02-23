@@ -6,3 +6,7 @@ enabled = true
 
   [analyzers.meta]
   import_paths = ["github.com/jessepinkman9900/hub"]
+
+[[transformers]]
+name = "gofmt"
+enabled = true
